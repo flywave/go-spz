@@ -321,10 +321,6 @@ go-spz/
 
 MIT License
 
-## 作者
-
-许宁 (xuning)
-
 ## 贡献
 
 欢迎提交 Issue 和 Pull Request！

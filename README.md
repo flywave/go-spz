@@ -322,10 +322,6 @@ go-spz/
 
 MIT License
 
-## Author
-
-Xu Ning (xuning)
-
 ## Contributing
 
 Issues and Pull Requests are welcome!
